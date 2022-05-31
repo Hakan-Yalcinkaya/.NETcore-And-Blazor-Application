@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hakan\Desktop\WebTasarım\C#\ASP.NETcore\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.pdb
